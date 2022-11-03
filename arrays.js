@@ -1,4 +1,3 @@
-/*
-    In this file, we'll be continuing our story
-    with Jon being allowed to flee his fight with Jamie.
-*/
+let backpack = [];
+// lets add swoard,sheild food
+backpack.push('sword','sheild','food')
